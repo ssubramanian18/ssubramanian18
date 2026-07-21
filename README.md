@@ -52,7 +52,7 @@ A portfolio of end-to-end data science projects completed through the IBM Data S
 
 **Key Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash, Scikit-learn
 
-🔗 **View Project:** [IBM Data Science Projects]((https://github.com/ssubramanian18/IBM-Data-Science-Projects))
+🔗 **View Project:** [IBM Data Science Projects]([(https://github.com/ssubramanian18/IBM-Data-Science-Projects)](https://github.com/ssubramanian18/IBM-Data-Science-Projects))
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharansubbu/)
