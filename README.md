@@ -4,7 +4,6 @@
 - 🎓 Data Science student at Rutgers University
 - 📊 Passionate about using data to solve real-world problems
 - 🚀 Building projects that showcase my analytical, programming, and problem-solving skills
-- 🤖 Expanding my expertise beyond data science into machine learning and artificial intelligence
 - 🌟 Break Through Tech AI Fellow, developing a strong foundation in machine learning this summer before partnering with an industry company to apply my skills to real-world challenges.
 
 
