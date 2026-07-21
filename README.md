@@ -57,4 +57,4 @@ A portfolio of end-to-end data science projects completed through the IBM Data S
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharansubbu/)
 - 📧 [Email](sharansubbu5@gmail.com)
-- 🌐 [Portfolio](sharansubbu.com)
+
