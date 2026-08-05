@@ -1,6 +1,6 @@
 # Hi, I'm Sharan 👋
 
-## About M
+## About Me
 - 🎓 Data Science student at Rutgers University
 - 📊 Passionate about using data to solve real-world problems
 - 🚀 Building projects that showcase my analytical, programming, and problem-solving skills
