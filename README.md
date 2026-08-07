@@ -16,7 +16,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-025E8C?style=for-the-badge&logo=sas&logoColor=white)
 
-### 📚 Libraries & 
+### 📚 Libraries & Frameworks
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
