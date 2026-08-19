@@ -7,7 +7,7 @@
 - 🌟 Break Through Tech AI Fellow, developing a strong foundation in machine learning this summer before partnering with an industry company to apply my skills to real-world challenges.
 
 
-## 🛠️  Stack
+## 🛠️  Tech Stack
 
 ### 💻 Programming Languages
 
