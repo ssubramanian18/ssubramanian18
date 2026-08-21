@@ -44,7 +44,7 @@
 - 🤖 **GenAI Powered Data Analytics Job Simulation** — Tata (Forage)
 - 📊 **IBM Data Science Professional Certificate** — IBM
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 🚀 IBM Data Science Projects
 A portfolio of end-to-end data science projects completed through the IBM Data Science Professional Certificate, showcasing skills in data wrangling, exploratory data analysis, interactive dashboards, data visualization, web scraping, and machine learning using real-world and synthetic datasets.
