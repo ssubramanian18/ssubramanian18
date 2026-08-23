@@ -53,7 +53,7 @@ A portfolio of end-to-end data science projects completed through the IBM Data S
 
 🔗 **View Project:** [IBM Data Science Projects](https://github.com/ssubramanian18/IBM-Data-Science-Projects)
 
-## 📫 Connect with Me
+## 📫 Connect with 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharansubbu/)
 - 📧 [Email](sharansubbu5@gmail.com)
 
