@@ -49,7 +49,7 @@
 ### 🚀 IBM Data Science Projects
 A portfolio of end-to-end data science projects completed through the IBM Data Science Professional Certificate, showcasing skills in data wrangling, exploratory data analysis, interactive dashboards, data visualization, web scraping, and machine learning using real-world and synthetic datasets.
 
-**Key Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash, Scikit-learn
+**Key Technologies:** Python, , NumPy, Matplotlib, Seaborn, Plotly, Dash, Scikit-learn
 
 🔗 **View Project:** [IBM Data Science Projects](https://github.com/ssubramanian18/IBM-Data-Science-Projects)
 
